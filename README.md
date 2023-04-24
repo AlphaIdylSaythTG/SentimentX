@@ -1,5 +1,5 @@
 # SentimentX
-SentimentX is a web-based application that performs sentiment analysis on text and images. The application is built using Streamlit, TextBlob, Altair, Pandas, PIL, and NumPy libraries. The user can select one of three options from the menu: EmoText, Logs, and EmoVision.
+SentimentX is a machine learning web-based application that performs sentiment analysis on text and images. The application is built using Streamlit, TextBlob, Altair, Pandas, PIL, and NumPy libraries. The user can select one of three options from the menu: EmoText, Logs, and EmoVision.
 
 In EmoText, the user enters text and the application predicts its sentiment. The sentiment score and message are displayed to the user, and the data is stored in a session state for future reference. The application also generates a graph showing the sentiment scores over time.
 
